@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #807561;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.game {
+    justify-content: center;
+    align-items: center;
+}
